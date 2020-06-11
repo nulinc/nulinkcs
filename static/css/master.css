@@ -15,8 +15,8 @@ body{
 text-align: center;
 color: #ffffff;
 font-family: "Lucida Console", Courier, monospace;
-
-
+letter-spacing: 2px;
+font-size: 95%;
 -khtml-user-select: none;
 -o-user-select: none;
 -moz-user-select: none;
