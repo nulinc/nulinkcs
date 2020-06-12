@@ -2,6 +2,7 @@ body{
   margin: 0;
   padding: 0;
   background: #000000;
+
 }
 
 #particles-js
@@ -14,17 +15,16 @@ body{
 #header1 {
 text-align: center;
 color: #ffffff;
+font-size: 1.2vw;
 font-family: "Lucida Console", Courier, monospace;
 letter-spacing: 2px;
-font-size: 95%;
+
 -khtml-user-select: none;
 -o-user-select: none;
 -moz-user-select: none;
 -webkit-user-select: none;
 user-select: none;
 }
-
-
 
 #over img {
   margin-left: auto;
